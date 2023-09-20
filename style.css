@@ -1,0 +1,32 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@1,900&display=swap');
+
+
+body{
+    background-image: url(img/musica-jpeg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(0, 0, 0);
+   
+}
+h1{
+    font-family: 'Overpass', sans-serif;
+    ;
+
+    
+}
+form{
+    font-family: 'Overpass', sans-serif;
+}
+textarea{
+    resize: none;
+}
+fieldset{
+    width: 500px;
+}
+.formulario_inteiro{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+}
